@@ -1,9 +1,9 @@
-# Customer-Retention-Churn-Analytics
+# Customer-Retention-&-Churn-Analytics
 Comprehensive customer retention and churn analytics project combining Python-based data cleaning with interactive Power BI dashboards to uncover key risk drivers and actionable insights.
 
-#  Customer Retention & Churn Analytics
 
-![Dashboard Preview](dashboard_preview.png)
+
+![Dashboard Preview](Churn_analysis_Dashboard.png)
 
 ---
 
